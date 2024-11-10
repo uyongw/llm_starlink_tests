@@ -2,10 +2,10 @@
 
 Test case to test LLM's capability for programming with increased complexity.
 The program involves:
-	1.	Initializing an nxn matrix mat with values from 1 to n^2.
-	2.	Manipulating pointers with varying levels of indirection to modify the matrix.
-	3.	Calculating a result (res) based on these manipulations.
-	4.	Printing specific values derived from the pointer manipulations.
+1.	Initializing an nxn matrix with values from 1 to n^2.
+2.	Manipulating pointers with varying levels of indirection to modify the matrix.
+3.	Calculating a result based on these manipulations.
+4.	Printing specific values derived from the pointer manipulations.
 
 
 # Cases
