@@ -1,4 +1,4 @@
-# LLM test case for programming
+# LLM test cases for programming (C++)
 
 Test case to test LLM's capability for programming with increased complexity.
 The program involves:
